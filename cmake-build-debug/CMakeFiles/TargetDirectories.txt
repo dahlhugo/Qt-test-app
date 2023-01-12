@@ -1,5 +1,4 @@
-C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/CMakeFiles/qtproj.dir
-C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/CMakeFiles/qtproj_autogen_timestamp_deps.dir
-C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/CMakeFiles/qtproj_autogen.dir
+/home/hugo/development/Qt-test-app/cmake-build-debug/CMakeFiles/qtproj.dir
+/home/hugo/development/Qt-test-app/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hugo/development/Qt-test-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hugo/development/Qt-test-app/cmake-build-debug/CMakeFiles/qtproj_autogen.dir

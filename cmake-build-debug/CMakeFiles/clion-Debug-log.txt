@@ -1,5 +1,6 @@
-"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Hugo/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\Hugo\CLionProjects\qtproj -B C:\Users\Hugo\CLionProjects\qtproj\cmake-build-debug
+/home/hugo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/hugo/development/Qt-test-app -B /home/hugo/development/Qt-test-app/cmake-build-debug
+-- Could NOT find XKB (missing: XKB_LIBRARY XKB_INCLUDE_DIR) (Required is at least version "0.5.0")
 -- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug
+-- Build files have been written to: /home/hugo/development/Qt-test-app/cmake-build-debug

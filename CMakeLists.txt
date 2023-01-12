@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.24)
 project(qtproj)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -6,7 +6,15 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-set(CMAKE_PREFIX_PATH "C:/Qt/6.4.2/mingw_64")
+if(WIN_32)
+    set(CMAKE_PREFIX_PATH "C:/Qt/6.4.2/mingw_64")
+endif(WIN_32)
+    set(CMAKE_PREFIX_PATH "/home/hugo/Qt/6.4.2/gcc_64")
+if (UNIX)
+
+endif (UNIX)
+
+
 
 find_package(Qt6 COMPONENTS
         Core
@@ -14,7 +22,7 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(qtproj main.cpp Window.cpp Window.h)
+add_executable(qtproj main.cpp window.cpp window.h)
 target_link_libraries(qtproj
         Qt::Core
         Qt::Gui
