@@ -1,0 +1,8 @@
+# ninja log v5
+21	224	6952586141158235	qtproj_autogen/timestamp	12b088ff5dc14a10
+21	224	6952586141158235	qtproj_autogen/mocs_compilation.cpp	12b088ff5dc14a10
+21	224	6952586141158235	C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/qtproj_autogen/timestamp	12b088ff5dc14a10
+21	224	6952586141158235	C:/Users/Hugo/CLionProjects/qtproj/cmake-build-debug/qtproj_autogen/mocs_compilation.cpp	12b088ff5dc14a10
+315	445	6952584218243941	CMakeFiles/qtproj.dir/qtproj_autogen/mocs_compilation.cpp.obj	bcf5998bd7eac5d7
+238	2919	6952586168100598	CMakeFiles/qtproj.dir/main.cpp.obj	5a015512be8e9fd8
+2920	3508	6952586170537207	qtproj.exe	533c99a63102edf9
